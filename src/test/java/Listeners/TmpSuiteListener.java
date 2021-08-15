@@ -5,7 +5,7 @@ import org.testng.*;
 public class TmpSuiteListener implements ISuiteListener {
     @Override
     public void onStart(ISuite iSuite) {
-        System.out.println("----------Start Suite----------------\n\n");
+        System.out.println("----------START Suite----------------\n\n");
 
     }
 
